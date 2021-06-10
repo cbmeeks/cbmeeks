@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![GitHub stats for cbmeeks](https://github-readme-stats.vercel.app/api?username=cbmeeks&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cbmeeks&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbmeeks&show_icons=true&theme=cobalt&langs_count=8&layout=compact" />
+</a>
 
 
 
