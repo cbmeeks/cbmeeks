@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![GitHub stats for cbmeeks](https://github-readme-stats.vercel.app/api?username=cbmeeks)]
+[![GitHub stats for cbmeeks](https://github-readme-stats.vercel.app/api?username=cbmeeks)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
