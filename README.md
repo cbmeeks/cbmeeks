@@ -5,6 +5,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbmeeks&show_icons=true&theme=cobalt&langs_count=8&layout=compact" />
 </a>
 
+<p> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cbmeeks&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Hi there 👋
 
 <!--
